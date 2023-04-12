@@ -18,11 +18,11 @@ python -m pip install anytree --user
 Šī ir divspēlētāju spēle, kuras mērķis ir apvienot divas uz lauka esošas figūras kamēr paliek tikai divas no tām. Šajā gadījuma spēlē spēlētājs pret datoru. Pieejamās figūras ir aplis un kvadrāts. Spēle sākas ar 5 pēc gadijuma izvēlētam figurām. Spēlētājiem jāizvēlas viena no dotajām figūrām, tiklīdz kāda ir izvēlēta tā tiek apvienota ar figūru, kas tai ir pa labi un atkarībā no figūru kombinācijas tās tiek aizstātas ar attiecīgo kombinācijas rezultāta figūru. Kad uz lauka ir palikušas tikai divas figūras tiek paziņots uzvarētājs atkarībā no tā kāda figūra ir pirmajā vietā, piemēram, ja spēles beigās pirmajā vietā ir aplis, tad uzvar tas spēlētājs kurš uzsāka spēli, bet ja primajā vietā ir kvadrāts, tad uzvar otrs spēlētājs.
 
 ## Figūru kombinācijas
- Aplis + Kvadrāts = Aplis__
- ``⬤ + ∎ -> ⬤``__
- Aplis + Aplis = Kvadrāts__
- ``⬤ + ⬤ -> ∎``__
- Kvadrāts + Aplis = Kvadrāts__
- ``∎ + ⬤ -> ∎``__
- Kvadrāts + Kvadrāts = Aplis__
- ``∎ + ∎ -> ⬤``__
+ Aplis + Kvadrāts = Aplis <br />
+ ``⬤ + ∎ -> ⬤``<br />
+ Aplis + Aplis = Kvadrāts <br />
+ ``⬤ + ⬤ -> ∎``<br />
+ Kvadrāts + Aplis = Kvadrāts <br />
+ ``∎ + ⬤ -> ∎``<br />
+ Kvadrāts + Kvadrāts = Aplis <br />
+ ``∎ + ∎ -> ⬤``<br />
