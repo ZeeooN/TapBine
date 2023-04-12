@@ -1,3 +1,7 @@
+# Nosaukums: TapBine
+# Izstrādāja: Haralds Bikše
+# Studenta apliecības numurs: 211RDB120
+
 import sys
 import time
 

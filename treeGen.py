@@ -1,3 +1,7 @@
+# Nosaukums: TapBine - koku ģenerators
+# Izstrādāja: Haralds Bikše
+# Studenta apliecības numurs: 211RDB120
+
 from main import generate_field, field_merge
 from anytree import Node, RenderTree
 
@@ -50,7 +54,7 @@ def generate_tree(start_field):
     return [tree_root, index_tree]
 
 
-# Heiristiskā novērtējuma koka ģenerēšana
+# Heiristiskā vērtējuma koka ģenerēšana
 # tree - Spēles koks ar visiem iespējamajiem gājieniem
 def h_generation(tree):
     h_value_tree = tree
